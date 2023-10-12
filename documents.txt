@@ -1,0 +1,5 @@
+GIT CHEAT SHEET
+
+=> 
+git add . ( đồng bộ tập tin có tên mang dấu . ) vd: .gitignore
+git add * ( không đồng bộ tập tin có dấu . ) 
